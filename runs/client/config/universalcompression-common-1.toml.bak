@@ -1,0 +1,3 @@
+[general]
+	#List of mod IDs or fully qualified block IDs that should not be compressed
+	blacklist = []

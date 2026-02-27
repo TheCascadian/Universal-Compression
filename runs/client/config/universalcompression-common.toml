@@ -1,0 +1,15 @@
+[general]
+	#Legacy: list of mod IDs or fully qualified block IDs (e.g. 'create' or 'minecraft:tnt')
+	blacklist = []
+	#Mod IDs whose blocks should never be compressed (e.g. 'create', 'botania')
+	excluded_mods = []
+	#Fully qualified block IDs to exclude (e.g. 'minecraft:tnt', 'create:copper_casing')
+	excluded_blocks = []
+	#Additional namespaces to blacklist exactly (e.g. 'mymod' will exclude all blocks from that mod
+	blacklist_namespaces_exact = []
+	#Namespaces which if they contain the supplied string will be blacklisted (case‑sensitive). Useful for catching family mods.
+	blacklist_namespaces_contains = []
+	#Namespaces which if they start with the supplied prefix will be blacklisted.
+	blacklist_namespaces_starts = []
+	#Block ID path substrings that trigger a blacklist (e.g. 'torch' will skip both 'mod:torch' and 'mod:torch_wall').
+	blacklist_paths_contains = []

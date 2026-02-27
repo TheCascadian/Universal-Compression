@@ -1,0 +1,5 @@
+/give Dev minecraft:diamond_axe
+/time set 0
+/gamemode
+/gamemode creative
+/give Dev universalcompression:minecraft_yellow_wool_compressed_4
