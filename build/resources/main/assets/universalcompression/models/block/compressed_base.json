@@ -1,8 +1,0 @@
-{
-    "loader": "universalcompression:compressed",
-    "parent": "minecraft:block/cube_all",
-    "tier": 1,
-    "textures": {
-        "all": "minecraft:block/stone"
-    }
-}
