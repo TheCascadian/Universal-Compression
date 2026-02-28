@@ -1,4 +1,11 @@
+
+
 ![Universal Compression logo image](https://cdn.modrinth.com/data/cached_images/001fcbda049ad167a5011b3f77d710e4480cb730_0.webp)
+
+![GitHub stars](https://img.shields.io/github/stars/TheCascadian/Universal-Compression?style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/TheCascadian/Universal-Compression?style=flat-square)
+[![Discord](https://img.shields.io/discord/1201161505442381884?label=Discord&logo=discord&style=flat-square)](https://discord.com/invite/RuaR7CBy7Z)
+
 # Universal Compression
 Compress (nearly) _any_ block in the game into progressively denser stacks, **up to nine tiers deep**.
 
