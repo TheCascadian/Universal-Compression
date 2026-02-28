@@ -1,6 +1,0 @@
-{
-  "itemGroup.universalcompression": "Compressed Blocks",
-  "block.universalcompression.compressed_block_name": "Compressed %s (Tier %s)",
-  "tooltip.universalcompression.source_mod": "Source: %s",
-  "tooltip.universalcompression.introduced_by": "Introduced by: Universal Compression"
-}
