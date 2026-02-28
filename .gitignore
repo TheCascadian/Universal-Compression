@@ -6,6 +6,12 @@
 ./.gradle/
 ./.idea/
 ./.vscode/
+./.settings/
+./runs/
 ./*.iml
 ./*.log
 ./*.tmp
+./.gradle/
+run*/
+.settings/
+
