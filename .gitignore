@@ -13,3 +13,6 @@ gradle/
 gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
 .settings/
+
+# Developer notes (local only)
+DEVNOTES*.md
